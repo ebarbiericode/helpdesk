@@ -1,4 +1,8 @@
-<?require_once "valida_acesso.php"?>
+<?
+  require_once "valida_acesso.php";
+  //session_start esta sendo importado do valida_acesso.php
+
+?>
 
 <html>
   <head>
