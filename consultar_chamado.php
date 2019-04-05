@@ -40,7 +40,7 @@
         <div class="card-consultar-chamado">
           <div class="card">
             <div class="card-header">
-              Consulta de chamado
+              Status Request
             </div>
             
             <div class="card-body">
@@ -70,7 +70,7 @@
 
               <div class="row mt-5">
                 <div class="col-6">
-                  <a class="btn btn-lg btn-warning btn-block" href="home.php">Voltar</a>
+                  <a class="btn btn-lg btn-warning btn-block" href="home.php">Back</a>
                 </div>
               </div>
             </div>
